@@ -44,7 +44,6 @@ body {
   padding-top: 200px;
   display: flex;
   max-width: 100%;
-  /* flex-wrap: wrap; */
   width: 0;
   height: 0;
   border-left: 50vw solid transparent; 
@@ -130,7 +129,6 @@ body {
     position: absolute;
     padding-top: 200px;
     display: flex;
-    width: 1280px;
     flex-wrap: wrap;
     width: 0;
     height: 0;
