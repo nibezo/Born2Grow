@@ -63,7 +63,7 @@ body {
     position: relative;
     display: flex;
     flex-direction: column;
-    padding: 6vh 30px;
+    padding: 4vh 30px;
     width: 100vh;
     line-height: 90px;
   }
@@ -148,7 +148,7 @@ body {
     width: 40vh;
     display: flex;
     flex-direction: column;
-    padding: 7vh 0px;
+    padding: 5vh 0px;
 
     line-height: 80px;
   }
