@@ -1,0 +1,25 @@
+.tagline__container {
+	position: relative;
+}
+.tagline__text {
+	display: inline-block;
+	text-transform: uppercase;
+	font-family: "Bebas Neue", sans-serif;
+	font-size: 85px;
+	margin: 0;
+}
+.tagline__shape {
+	position: absolute;
+	right: -20px;
+	display: inline;
+	width: 30px;
+	height: 30px;
+}
+.tagline__question {
+	display: flex;
+	justify-content: flex-end;
+	width: 800px;
+	margin: 0;
+	font-family: "Bebas Neue", sans-serif;
+	font-size: 85px;
+}

@@ -1,0 +1,23 @@
+.footer {
+	display: flex;
+	align-items: center;
+}
+.footer__link {
+	text-decoration: none;
+	display: block;
+	height: 25px;
+	width: 25px;
+	margin-right: 5px;
+}
+.footer__link:last-child {
+	margin-right: 0px;
+}
+.footer__vertical-line {
+	background-color: #1b2e59;
+	height: 25px;
+	width: 2px;
+	margin: 0px 10px;
+}
+.footer__nickname {
+	font-family: "DM Sans", sans-serif;
+}
