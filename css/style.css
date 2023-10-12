@@ -14,11 +14,11 @@
 	box-sizing: border-box;
 }
 
-body {
+/* body {
 	height: 100vh;
 	display: flex;
 	flex-direction: column;
 	align-items: center;
 	justify-content: space-around;
 	background-color: #f5f5f5;
-}
+} */

@@ -2,4 +2,11 @@
 	display: flex;
 	flex-direction: column;
 	align-items: center;
+	background-color: #1b2e59;
+}
+.main__background-top {
+	width: 100vw;
+	height: 100px;
+	background-image: url(../../img/lowbody.png);
+	background-repeat: repeat-x;
 }
