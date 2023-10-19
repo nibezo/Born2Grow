@@ -3,10 +3,26 @@
 	flex-direction: column;
 	align-items: center;
 	background-color: #1b2e59;
+	overflow: hidden;
+}
+.main__tagline {
+	z-index: 1;
 }
 .main__background-top {
+	position: absolute;
+	top: 0;
+	left: 0;
 	width: 100vw;
-	height: 100px;
-	background-image: url(../../img/lowbody.png);
-	background-repeat: repeat-x;
+	height: 160px;
+	background: url(../../img/lowbody.png) center;
+	background-size: auto 100%;
+}
+.main__background-bottom {
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	width: 100vw;
+	height: 160px;
+	background: url(../../img/lowbody.png) center;
+	background-size: auto 100%;
 }

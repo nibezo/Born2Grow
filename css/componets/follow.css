@@ -2,4 +2,16 @@
 	font-family: "DM Sans", sans-serif;
 	font-size: 32px;
 	color: #f5f5f5;
+	position: relative;
+}
+.follow__container {
+	width: 100vw;
+	height: 14px;
+}
+.follow__text {
+	z-index: 1;
+	position: absolute;
+	width: 187px;
+	top: 14vh;
+	left: calc(50vw - 187px / 2);
 }
