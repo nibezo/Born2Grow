@@ -1,5 +1,7 @@
 @media screen and (max-width: 990px) {
 	.header__logo {
 		content: url("../img/logo-mob.png");
+		width: calc(4224px / 38);
+		height: calc(6001px / 38);
 	}
 }
